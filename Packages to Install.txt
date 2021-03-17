@@ -1,0 +1,3 @@
+pip install replit
+pip install db
+pip install discord
